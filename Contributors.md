@@ -3442,6 +3442,7 @@ Keithan Philander
 - [Enrique Dutra](https://github.com/edutra)
 - [Richard Red](https://github.com/richardred)
 - [Jay Parekh](https://github.com/violetviolinist)
+- tre
 - [Eric Semianczuk](https://github.com/esemianczuk)
 - [Mithesh](https://github.com/mithesh109)
 - [piuserre](https://github.com/piuserre)
