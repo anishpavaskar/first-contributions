@@ -14,6 +14,7 @@ Jeremy Sipple
 - so much water
 - [nayyyhaa](https://github.com/nayyyhaa)
 - [tung](https://github.com/nguyenthanhtungn5)
+- [tung](https://github.com/nguyenthanhtungn5)
 - [Paras Lakhani](https://github.com/paras112)
 - [Dylan O'Leary](https://github.com/Dylan-Oleary)
 - [Abhishek U Bhat](https://github.com/Blackhat96)
@@ -6068,5 +6069,6 @@ Keithan Philander
 - [Wallace Soares](https://github.com/soareswallace)
 - [Rishik Rohan](https://github.com/Rishik233)
 - [Maurice A](https://github.com/matrop)
+- [Anish Pavaskar](https://github.com/anishpavaskar)
 - [CodersFiles] (https://github.com/CodersFiles)
 - [Kushal Vijay] (https://github.com/KushalVijay)
